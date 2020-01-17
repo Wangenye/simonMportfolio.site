@@ -1,0 +1,22 @@
+@font-face
+{
+	font-family: Pacifico;
+	src: url('./Pacifico/Pacifico-Regular.ttf');
+}
+@font-face
+{
+	font-family: Fruktur;
+	src: url('./Fruktur/Fruktur-Regular.ttf');
+}
+
+@font-face
+{
+	font-family: Akronim;
+	src: url('./Fruktur/Akronim-Regular.ttf');
+}
+/*Amarante-Regular.ttf*/
+@font-face
+{
+	font-family: Amarante;
+	src: url('./Fruktur/Amarante-Regular.ttf');
+}
