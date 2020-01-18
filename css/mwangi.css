@@ -453,9 +453,10 @@ footer p{
 /*<<<<<<<<<<<<<<<<<<<<<<<REPOSIVE PART FOR MOBILE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 
 
-@media (max-width: 780px)
+@media screen and (max-width: 780px)
 {
-	
+	  #primary { width:67%; }
+    #secondary { width:30%; margin-left:3%;}
 	/*	body
 	{
 		margin: 0;
