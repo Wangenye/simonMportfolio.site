@@ -20,3 +20,16 @@
 	font-family: Amarante;
 	src: url('./Fruktur/Amarante-Regular.ttf');
 }
+
+/*Aladin-Regular.ttf*/
+@font-face
+{
+	font-family: Amarante;
+	src: url('./Fruktur/Aladin-Regular.ttf');
+}
+/*UnifrakturCook-Bold.ttf*/
+@font-face
+{
+	font-family: UnifrakturCook;
+	src: url('./Fruktur/UnifrakturCook-Bold.ttf');
+}
