@@ -672,7 +672,7 @@ footer p{
 	}
 	.main-info-section
 	{
-		margin-top: -640px;
+		margin-top: -400px;
 			padding-bottom: -100px;
 	}
 	.main-info-section .text h1
@@ -693,41 +693,7 @@ footer p{
 		/*float: left;*/
 		/*position: relative;*/
 	}
-	/*.Social
-	{
-		margin-top: -30px;
-
-		width: 100%;
-	}
-	.Social-icons
-	{
-		max-width: 100%;
-		left: 10%;
-		right: 0;
-	}
-	.Social ul li
-	{
-		overflow: hidden;
-		top: -23330%;
-		padding-left: 20px;
-		left: -19%;
-		right: 0%;
-		margin: 0;
-		float: left;
-		display: inline-block;
-		position: relative;
-	}*/
-	/*.Social ul li img
-	{
-		padding-right: 10px;
-		width: 30px;
-		height: 28px;
-		display: inline-block;
-	}*/
-	/*#dd{
-		top: 0;
-		right: 30%;
-	}*/
+	
 	.Social-icons
 	{
 		width: 100%;
@@ -762,6 +728,10 @@ footer p{
 		padding-left: 15px;
 		padding-top: 2px;
 	}
+	.Social
+	{
+		margin-top: -200px;
+	}
 	.Social-icons ul li a 
 	{
 		top: 0;
@@ -787,12 +757,24 @@ footer p{
 }
 	.profile-img .box
 	{
-		display: none;
-		width: 250px;
-		height: 100px;
+		justify-content: center;
+		align-items: center;
+		/*background-color: yellow;*/
+		top: -650px;
+		position: absolute;
+		display: flex;
+		width: 70%;
+		height: 50%;
 		float: none;
 		margin-top: 700px;
 	}
+	.profile-img .box img
+	{
+		width: 100%;
+		height: 100%;
+
+	}
+
 	.about h1,
 	.work h1
 	{
