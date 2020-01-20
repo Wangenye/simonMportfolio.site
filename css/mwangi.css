@@ -759,7 +759,7 @@ footer p{
 	{
 		justify-content: center;
 		align-items: center;
-		/*background-color: yellow;*/
+		background-color: yellow;
 		top: -650px;
 		position: absolute;
 		display: flex;
