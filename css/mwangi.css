@@ -850,10 +850,17 @@ footer p{
 		display: inline-block;
 		position: relative;
 	}
-	.contact input, .contact textarea
+	.contact input
 	{
 		width: 100%;
+                 border-radius:25px
 	}
+ .contact textarea
+{
+   width:100%;
+   height:110px; 
+   border-radius:25px; 
+}
 	#coro
 	{
 		z-index: 1;
