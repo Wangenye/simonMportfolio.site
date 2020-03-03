@@ -52,7 +52,7 @@ body
 
 .menu-bar ul li a
 {
-	font-family: 'Pacifico',cursive;
+	font-family: cursive;
   color: #707070;
   line-height: 60px;
   /*font-family: sans-serif;*/
@@ -74,7 +74,7 @@ body
   background: #262626;
   color: #fff;
   text-decoration: line-through;
-  font-family: 'Akronim',cursive;
+  font-family: cursive;
 
 
 }
@@ -331,7 +331,7 @@ span.m-left
 	z-index: 1;
 }
 .about-me-info p{
-	font-family: 'Amarante', cursive;
+	font-family:  cursive;
 	font-size: 1.3rem;
 	color: #BEBEBE;
 }
@@ -390,7 +390,7 @@ span.m-left
 }
 .skills-info p
 {
-	font-family: 'Amarante', cursive;
+	font-family: cursive;
 	font-size: 1.2rem;
 	letter-spacing: 2px;
 	word-spacing: 5px;
