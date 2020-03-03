@@ -3,7 +3,7 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: cursive !important;
+	font-family: cursive ;
 	
 }
 html
@@ -13,7 +13,7 @@ html
 body
 {
 	background-color: #252627;
-	font-family: cursive !important;
+	font-family: cursive ;
 }
 .container
 {
@@ -99,6 +99,7 @@ body
 .main-info-section
 {
 	height: calc(100vh - 81.6px);
+	font-family: 'Pacifico';
 
 
 }
