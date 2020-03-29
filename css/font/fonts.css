@@ -33,3 +33,9 @@
 	font-family: UnifrakturCook;
 	src: url('./Fruktur/UnifrakturCook-Bold.ttf');
 }
+/*Charm-Bold.ttf*/
+@font-face
+{
+	font-family:Charm-Bold;
+	src: url('./Fruktur/Charm-Bold.ttf');
+}
