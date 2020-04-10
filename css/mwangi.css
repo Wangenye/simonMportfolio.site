@@ -850,16 +850,16 @@ footer p{
 		font-size: 5rem;
 		margin-top: 20px;
 	}
-	.contact input
+		.contact input
 	{
-		width: 80%;
+		width: 300px;
 		height: 30px;
 	}
 
 	.contact textarea
 	{
-		width: 95%;
-		height: 65%;
+		width: 300px;
+		height: 200px;
 	}
 	footer p
 	{
