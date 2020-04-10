@@ -723,15 +723,11 @@ footer p{
 {
 	/*border-radius: 100%;*/
 	border-radius: 50% 10% 50% 50%;
-	/*align-items: center;
-	justify-content: center;
-	display: flex;*/
-	/*background: none;*/
 	width: 300px;
 	height: 300px;
 	/*margin-top: 10px;*/
 	/*position: relative;*/
-	margin-top: -200px;
+	margin-top: -100px;
 	float: none;
 	/*left:18%;*/
 	right:10%;
