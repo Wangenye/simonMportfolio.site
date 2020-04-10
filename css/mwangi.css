@@ -639,7 +639,7 @@ footer p{
 
 	.main-info-section
 	{
-		margin-top: -180px;
+		margin-top: -100px;
 		padding-bottom: -100px;
 		/*margin-bottom: 100px;*/
 	}
@@ -723,11 +723,13 @@ footer p{
 {
 	/*border-radius: 100%;*/
 	border-radius: 50% 10% 50% 50%;
+	/*align-items: center;
+	justify-content: center;
+	display: flex;*/
+	/*background: none;*/
 	width: 300px;
 	height: 300px;
-	/*margin-top: 10px;*/
-	/*position: relative;*/
-	margin-top: -100px;
+	margin-top: -290px;
 	float: none;
 	/*left:18%;*/
 	right:10%;
@@ -846,7 +848,7 @@ footer p{
 		font-size: 5rem;
 		margin-top: 20px;
 	}
-		.contact input
+	.contact input
 	{
 		width: 300px;
 		height: 30px;
@@ -865,3 +867,4 @@ footer p{
 	}
 
 }
+
